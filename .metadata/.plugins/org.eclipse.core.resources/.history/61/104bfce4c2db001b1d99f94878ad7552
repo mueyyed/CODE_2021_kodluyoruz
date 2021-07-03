@@ -3,14 +3,13 @@ package fibonacci;
 import java.util.Scanner;
 
 // Merhaba hocam I don't exactly what to do in this code
-// because I have tried to ask my friends on dicord about ..
+// because I have tried to ask my friends on dicord about 
 // homework but no-one made a explanation about 
 // for this reason according to my understanding in order not to pass the deadline 
 // I am doing my best to get this homework done
 
 public class Harf_notu_karsiligi {
 
-	// creatd by mueyyed
 	
 	public static void main(String[] args) {
 
