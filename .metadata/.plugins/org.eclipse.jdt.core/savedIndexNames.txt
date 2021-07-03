@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+C:\Users\moayy\Desktop\KODLUYORUZ REPO\.metadata\.plugins\org.eclipse.jdt.core
-3494076646.index
 2201482698.index
